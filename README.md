@@ -1,6 +1,7 @@
-### About Me 💬
+### About Me 📜
 - 💻 Software Developer
 - 📚 C#, Typescript
+- 💬 German, English
 - 👀 Looking for opportunities to contribute
 
 
