@@ -1,4 +1,11 @@
-### Hi there 👋
+### About Me 💬
+- 💻 Software Developer
+- 📚 C#, Typescript
+- 👀 Looking for opportunities to contribute
+
+
+#### Currently contributing to:
+  - 🐵 [Monkeytype](https://github.com/monkeytypegame/monkeytype)
 
 <!--
 **meyerhenning/meyerhenning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
