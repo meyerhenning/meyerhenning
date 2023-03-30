@@ -7,6 +7,7 @@
 
 #### Currently contributing to:
   - 🐵 [Monkeytype](https://github.com/monkeytypegame/monkeytype)
+  - ✅ [NetArchTest](https://github.com/BenMorris/NetArchTest)
 
 <!--
 **meyerhenning/meyerhenning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
