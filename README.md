@@ -1,8 +1,7 @@
 ### About Me 📜
 - 💻 Software Developer
-- 📚 C#, F#, Typescript
+- 📚 .NET (C#, F#), Typescript
 - 💬 German, English
-- 👀 Looking for opportunities to contribute
 
 
 #### Currently contributing to:
